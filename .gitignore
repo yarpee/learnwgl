@@ -1,0 +1,5 @@
+# ignore all files in the Debug/ directory
+Debug/
+.vs/
+render/Debug/
+
